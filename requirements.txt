@@ -1,0 +1,41 @@
+backcall @ file:///home/ktietz/src/ci/backcall_1611930011877/work
+beautifulsoup4==4.9.1
+bs4==0.0.1
+certifi==2021.10.8
+chardet==3.0.4
+click==7.1.2
+colorama @ file:///tmp/build/80754af9/colorama_1607707115595/work
+debugpy @ file:///C:/ci/debugpy_1637091911212/work
+decorator @ file:///opt/conda/conda-bld/decorator_1643638310831/work
+entrypoints @ file:///C:/ci/entrypoints_1649926659561/work
+Flask==1.1.2
+Flask-Cors==3.0.9
+gunicorn==20.0.4
+idna==2.10
+ipykernel @ file:///C:/ci/ipykernel_1647000985174/work/dist/ipykernel-6.9.1-py3-none-any.whl
+ipython @ file:///C:/ci/ipython_1643800131373/work
+itsdangerous==1.1.0
+jedi @ file:///C:/ci/jedi_1644297241925/work
+Jinja2==2.11.2
+jupyter-client @ file:///C:/ci/jupyter_client_1650534191587/work
+jupyter-core @ file:///C:/ci/jupyter_core_1646976467633/work
+MarkupSafe==1.1.1
+matplotlib-inline @ file:///tmp/build/80754af9/matplotlib-inline_1628242447089/work
+nest-asyncio @ file:///C:/ci/nest-asyncio_1649848126026/work
+parso @ file:///opt/conda/conda-bld/parso_1641458642106/work
+pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
+prompt-toolkit @ file:///tmp/build/80754af9/prompt-toolkit_1633440160888/work
+Pygments @ file:///opt/conda/conda-bld/pygments_1644249106324/work
+pymongo==4.1.1
+python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
+pywin32==302
+pyzmq @ file:///C:/ci/pyzmq_1638435182681/work
+requests==2.24.0
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+soupsieve==2.0.1
+tornado @ file:///C:/ci/tornado_1606935947090/work
+traitlets @ file:///tmp/build/80754af9/traitlets_1636710298902/work
+urllib3==1.25.10
+wcwidth @ file:///Users/ktietz/demo/mc3/conda-bld/wcwidth_1629357192024/work
+Werkzeug==1.0.1
+wincertstore==0.2
